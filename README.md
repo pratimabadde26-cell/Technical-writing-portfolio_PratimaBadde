@@ -8,7 +8,7 @@ I am a technical writer focused on creating clear, structured, and user-friendly
 
 https://github.com/pratimabadde26-cell/dita-user-guide-sample
 
-[https://github.com/pratimabadde26-cell/api-documentation-sample](https://github.com/pratimabadde26-cell/API-Documentation-Testing-Project)
+https://github.com/pratimabadde26-cell/API-Documentation-Testing-Project
 
 
 **Technical Writing Skills**
